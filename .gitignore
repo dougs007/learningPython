@@ -1,4 +1,5 @@
 # Arquivos que não serão versionados.
 
 .idea/
-
+.vscode/
+.nbprojects/
